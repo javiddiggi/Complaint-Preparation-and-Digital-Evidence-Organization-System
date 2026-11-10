@@ -1,0 +1,73 @@
+Cert-In - Directions70B
+Accessibility Options
+|
+Sitemap
+|
+Contact Us
+Full Member
+Operational Member
+Accredited Member
+Global Research Partner
+Associate Partner
+Directions by CERT-In under   Section 70B, Information  Technology Act 2000
+Guidelines on Information  Security Practices for  Government Entities
+Blueprint for Reducing
+Exposure and Defending against
+AI-Assisted Vulnerabilities
+Exploitation in Digital
+Infrastructure
+15 Elemental Cyber
+Defense Controls for Micro,
+Small, and Medium Enterprises
+(MSMEs)
+Technical Guidelines on
+SBOM, QBOM & CBOM, AIBOM
+and HBOM Version 2.0
+Cyber Security Guidelines for
+Smart City Infrastructure
+Cyber Security Framework
+and Guidelines for Space
+including Satellite
+Communication
+Artificial Intelligence(AI)
+Security Auditing Guidelines
+Client's /Citizen's Charter
+Roles & Functions
+Advisory Committee
+Act/Rules/Regulations
+Internal Complaint Committee         (ICC)
+RFC2350
+Press
+Tender
+Subscribe Mailing List
+Contact Us
+Incident Reporting
+Vulnerability Reporting
+Feedback
+Guidelines
+Presentations
+White Papers
+Annual Report
+World CERTs
+Antivirus Resources
+FAQ
+Home
+-
+Directions by CERT-In under Section 70B, Information Technology Act 2000
+Directions by CERT-In under Section 70B, Information Technology Act 2000
+Directions under sub-section (6) of section 70B of the Information Technology Act, 2000 relating to
+										information security practices, procedure, prevention, response and reporting of cyber incidents for 
+										Safe & Trusted Internet (dated 28.04.2022)
+Frequently Asked Questions on Cyber Security Directions of 28.04.2022
+Extension of timelines for enforcement of Cyber Security Directions of 28.04.2022 for MSMEs and for implementation of mechanism for validation of subscribers/customers details by Data Centres, VPS providers, Cloud Service providers and VPN Service providers (dated 27.06.2022)
+"
+Install genuine and updated software
+to strengthen your online safety and security
+"
+Indian Computer Emergency Response Team - CERT-In, Ministry of Electronics and Information Technology, Government of India.
+Website Policies
+|
+Terms of Use
+|
+Help
+Last Updated On  November  04, 2026

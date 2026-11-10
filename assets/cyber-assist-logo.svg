@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+<title id="title">Cyber Assist logo</title>
+<defs>
+  <linearGradient id="g" x1="12" y1="8" x2="84" y2="88" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#3679e8"/><stop offset="1" stop-color="#1749a7"/>
+  </linearGradient>
+</defs>
+<path d="M48 5 81 17v25c0 22-13 38-33 49C28 80 15 64 15 42V17L48 5Z" fill="url(#g)"/>
+<path d="M48 15 71 23v19c0 16-9 28-23 36C34 70 25 58 25 42V23l23-8Z" fill="none" stroke="#fff" stroke-opacity=".45" stroke-width="2"/>
+<path d="M31 43h10l6-9 7 18 6-9h7" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="31" cy="43" r="3" fill="#fff"/><circle cx="67" cy="43" r="3" fill="#fff"/>
+</svg>

@@ -1,0 +1,99 @@
+Cybercrime categories
+
+Cryptocurrency Crime
+Cryptojacking
+Cryptojacking is a type of cybercrime where a criminal secretly uses a victim’s computing 
+                    power to generate cryptocurrency.
+Crypto Mining & Cloud Mining Scams
+Cryptocurrency-mining malware steal the resources of infected machines, significantly affecting 
+                    their performance, power consumption and increasing their wear and tear.
+Cryptocurrency Investment Frauds
+Fraudulent opportunity to invest in a cryptocurrency with guaranteed high returns e.g. “pump
+                     and dump” scams, giveaway scams, etc.
+Cyber Terrorism
+"Cyber Terrorism" is committed with intent to threaten the unity, integrity, security or sovereignty of India or to strike terror in the people or any section of the people by -
+denying or cause the denial of access to any person authorised to access computer resource; or
+attempting to penetrate or access a computer resource without authorisation or exceeding authorised access; or
+introducing or causing to introduce any computer contaminant,
+                and by means of such conduct causes or is likely to cause death or injuries to persons or damage to or destruction of property or disrupts or knowing that it is likely to cause damage or disruption of supplies or services essential to the life of the community or adversely affect the critical information infrastructure.
+Cyberterrorism is also committed when somebody knowingly or intentionally 
+                  penetrates or accesses a computer resource without authorisation or exceeding authorised access,
+                   and by means of such conduct obtains access to information, data or computer data base that is
+                   restricted for reasons of the security of the State or foreign relations; or any restricted 
+                  information, data or computer data base, with reasons to believe that such information, data
+                   or computer data base so obtained may be used to cause or likely to cause injury to the interests 
+                  of the sovereignty and integrity of India, the security of the State, friendly relations with 
+                  foreign States, public order, decency or morality, or in relation to contempt of court, defamation 
+                  or incitement to an offence, or to the advantage of any foreign nation, group of individuals or 
+                  otherwise, commits the offence of cyber terrorism.
+Hacking / Damage to Computer Systems
+The act of compromising computer resources through unauthorized access to an account 
+               or computer system. It is accessing of a computer system without the express or implied permission 
+               of the owner of that computer system.
+Whoever with the intent to cause or knowing that he is likely to 
+                    cause wrongful loss or damage to the public or any person destroys or deletes or alters 
+                    any information residing in a computer resource or diminishes its value or utility or affects
+                     it injuriously by any means, commits hacking. Hacking / Damage to Computer Systems includes;
+Damage to computer, computer systems, etc.
+Email Hacking.
+Tampering with computer source documents.
+Unauthorised Access / Data Breach.
+Website Defacement / Hacking.
+Online and Social Media Related Crime
+Online and Social media crimes in the country have been rising, posing new challenges 
+               as cyber criminals keep evolving their methods, using emerging technology. Various Cybercrimes categorized 
+               under Online and Social Media Related Crime in the portal are as follows:
+Cheating by Impersonation
+Cyber Bullying / Stalking / Sexting
+E-Mail Phishing
+Fake/Impersonating Profile
+Impersonating Email
+Intimidating Email
+Online Job Fraud
+Online Matrimonial Fraud
+Profile Hacking / Identity Theft
+Provocative Speech for unlawful acts
+Online Financial Fraud
+Online Financial Cybercrimes include unauthorized access, sabotage, 
+               or use of computer systems with the intention to cause financial gain by cyber criminals 
+               or financial loss to the victims. It may involve computer fraud or forgery, hacking to 
+               steal personal or valuable data for commercial gain. With the increase in the use of 
+               the internet and mobile banking, online financial frauds are increasing.
+Various Cybercrimes categorized under the category of Online financial fraud are as follows:
+Business Email Compromise/Email Takeover
+Debit/Credit Card Fraud/Sim Swap Fraud
+Demat/Depository Fraud
+E-Wallet Related Fraud
+Fraud Call/Vishing
+Internet Banking Related Fraud
+UPI Fraud
+Publishing / Transmitting of Explicit Material in Electronic Form
+Whoever publishes or transmits or causes to be published or transmitted in
+                the electronic form, any material which contains sexually explicit act or conduct, or 
+               any material which is lascivious or appeals to the prurient interest or if its effect 
+               is such as to tend to deprave and corrupt persons who are likely, having regard to all 
+               relevant circumstances, to read, see or hear the matter contained or embodied in it 
+               shall be punished under Section 67 or 67A of IT Act.
+Ransomware
+Ransomware is a rapidly evolving form of Cybercrime, through which cyber 
+               criminals remotely compromise and encrypt computer systems and demand a ransom in 
+               return for restoring and/or for not exposing data. Ransomware attacks target individuals
+                and Organisations.
+Ransomware attack blocks user’s access to the data stored in the 
+                            computer systems. More menacing versions of ransomware can encrypt files and 
+                            folders on local drives, attached drives, and even networked computers.
+Child Pornography / Child Sexual Abuse Material (CSAM)
+Child sexually abusive material (CSAM) refers to a material containing 
+               sexual image(s) in any form, of a child who is abused or sexually exploited. It is 
+               punishable to publish or transmit material depicting children in sexually explicit act 
+               or conduct in any electronic form. It is covered under Section 67B of IT Act 2000.
+Child pornography is a form of child sexual exploitation.
+                            The production, distribution, importation, reception, or possession of any
+                             image of child pornography is prohibited. Violation of child pornography/CSAM
+                             laws is a serious crime.
+A Memorandum of Understanding (MoU) was signed between 
+                           the National Crime Records Bureau (NCRB), India, and the National Centre 
+                           for Missing and Exploited Children (NCMEC), USA in April 2019 to receive 
+                           Cyber Tipline Reports on Child Sexual Abuse Material (CSAM) related to 
+                           India, to pave way for setting up an innovative mechanism for sharing 
+                           information as well as taking legal action against such offenders.

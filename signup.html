@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Create account | Cyber Assist</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body class="public-page login-page signup-page">
+    <header class="public-nav"><a class="public-brand" href="index.html"><img src="assets/cyber-assist-logo.svg"
+                alt="Cyber Assist logo"><span><b>Cyber Assist</b><small>Evidence to complaint</small></span></a>
+        <div class="public-actions"><button class="theme-toggle" type="button" data-theme-toggle
+                aria-label="Switch colour theme"><span class="theme-glyph">◐</span><span class="theme-label">Dark
+                    mode</span></button></div>
+    </header>
+    <main class="login-main">
+        <section class="login-card panel">
+            <img class="login-logo" src="assets/cyber-assist-logo.svg" alt="">
+            <div class="eyebrow">GET STARTED</div>
+            <h2>Create your account</h2>
+            <p>Enter your details to set up your Cyber Assist workspace.</p>
+            <form id="signupForm">
+                <label>Full name<input type="text" id="signupName" placeholder="Your name" required autocomplete="name"></label>
+                <label>Email address<input type="email" id="signupEmail" placeholder="you@example.com" required autocomplete="email"></label>
+                <label>Password
+                    <span class="password-field"><input type="password" id="signupPassword" placeholder="At least 8 characters" required minlength="8" autocomplete="new-password"><button class="password-toggle" type="button" data-password-toggle="signupPassword" aria-label="Show password" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2.5 12s3.4-6 9.5-6 9.5 6 9.5 6-3.4 6-9.5 6-9.5-6-9.5-6Z"/><circle cx="12" cy="12" r="2.5"/></svg></button></span>
+                </label>
+                <label>Confirm password
+                    <span class="password-field"><input type="password" id="signupPasswordConfirm" placeholder="Re-enter your password" required minlength="8" autocomplete="new-password"><button class="password-toggle" type="button" data-password-toggle="signupPasswordConfirm" aria-label="Show password" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2.5 12s3.4-6 9.5-6 9.5 6 9.5 6-3.4 6-9.5 6-9.5-6-9.5-6Z"/><circle cx="12" cy="12" r="2.5"/></svg></button></span>
+                </label>
+                <small class="form-error" id="signupFeedback" role="status" aria-live="polite" hidden></small>
+                <button class="btn primary full large" type="submit">Create account →</button>
+                <small class="login-helper">Demo only: no secure account is created. The email selects an isolated browser demo workspace; this is not production authentication.</small>
+            </form>
+            <div class="login-bottom"><span>Already have an account?</span><a href="login.html">Sign in →</a></div>
+        </section>
+    </main>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

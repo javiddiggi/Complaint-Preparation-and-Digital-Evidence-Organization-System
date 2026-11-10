@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+backend/.venv/
+backend/__pycache__/
+backend/tests/__pycache__/
+backend/cyber_assist.db
+backend/uploads/
+backend/chroma_db/
+backend/knowledge_base/documents/
+*.py[cod]
+.vscode/

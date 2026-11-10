@@ -1,0 +1,130 @@
+{
+  "documents": {
+    "seed_documents/ic3-complaint-preparation.txt": {
+      "source_name": "IC3 FAQ — Complaint preparation (Cyber Assist summary)",
+      "publisher": "FBI Internet Crime Complaint Center (IC3)",
+      "source_url": "https://www.ic3.gov/Home/FAQ",
+      "source_type": "application_summary",
+      "jurisdiction": "United States"
+    },
+    "seed_documents/ic3-submission-and-evidence.txt": {
+      "source_name": "IC3 FAQ — Submission and evidence (Cyber Assist summary)",
+      "publisher": "FBI Internet Crime Complaint Center (IC3)",
+      "source_url": "https://www.ic3.gov/Home/FAQ",
+      "source_type": "application_summary",
+      "jurisdiction": "United States"
+    },
+    "official_documents/cert-in-government-entities-security-guidelines.pdf": {
+      "source_name": "Guidelines on Information Security Practices for Government Entities",
+      "publisher": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology, Government of India",
+      "source_url": "https://www.cert-in.org.in/PDF/guidelinesgovtentities.pdf",
+      "source_type": "official_document",
+      "jurisdiction": "India"
+    },
+    "official_documents/cert-in-msme-cyber-defense-controls-2025.pdf": {
+      "source_name": "15 Elemental Cyber Defense Controls for Micro, Small, and Medium Enterprises (MSMEs)",
+      "publisher": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology, Government of India",
+      "source_url": "https://www.cert-in.org.in/PDF/Elemental_Cyber_Defense_Controls_for_MSME.pdf",
+      "publication_date": "2025-09-01",
+      "source_type": "official_document",
+      "jurisdiction": "India"
+    },
+    "official_documents/cert-in-directions-70b-page.txt": {
+      "source_name": "Directions by CERT-In under Section 70B, Information Technology Act 2000",
+      "publisher": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology, Government of India",
+      "source_url": "https://www.cert-in.org.in/Directions70B.jsp",
+      "source_type": "official_web_page",
+      "jurisdiction": "India"
+    },
+    "official_documents/cert-in-directions-70b-2022.pdf": {
+      "source_name": "Directions under sub-section (6) of section 70B of the Information Technology Act, 2000 relating to information security practices, procedure, prevention, response and reporting of cyber incidents for Safe & Trusted Internet",
+      "publisher": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology, Government of India",
+      "source_url": "https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf",
+      "publication_date": "2022-04-28",
+      "source_type": "official_document",
+      "jurisdiction": "India"
+    },
+    "official_documents/cert-in-directions-70b-faq-2022.pdf": {
+      "source_name": "Frequently Asked Questions on Cyber Security Directions of 28.04.2022",
+      "publisher": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology, Government of India",
+      "source_url": "https://www.cert-in.org.in/PDF/FAQs_on_CyberSecurityDirections_May2022.pdf",
+      "source_type": "official_document",
+      "jurisdiction": "India"
+    },
+    "official_documents/cert-in-directions-extension-2022.pdf": {
+      "source_name": "Extension of timelines for enforcement of Cyber Security Directions of 28.04.2022 for MSMEs and for implementation of mechanism for validation of subscribers/customers details by Data Centres, VPS providers, Cloud Service providers and VPN Service providers",
+      "publisher": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology, Government of India",
+      "source_url": "https://www.cert-in.org.in/PDF/CERT-In_directions_extension_MSMEs_and_validation_27.06.2022.pdf",
+      "publication_date": "2022-06-27",
+      "source_type": "official_document",
+      "jurisdiction": "India"
+    },
+    "official_documents/i4c-national-cybercrime-reporting-portal.txt": {
+      "source_name": "National Cybercrime Reporting Portal [NCRP]",
+      "publisher": "Indian Cyber Crime Coordination Centre (I4C), Ministry of Home Affairs, Government of India",
+      "source_url": "https://i4c.mha.gov.in/ncrp.aspx",
+      "source_type": "official_web_page",
+      "jurisdiction": "India"
+    },
+    "official_documents/i4c-cybercrime-faq.txt": {
+      "source_name": "FAQ (Frequently Asked Questions)",
+      "publisher": "Indian Cyber Crime Coordination Centre (I4C), Ministry of Home Affairs, Government of India",
+      "source_url": "https://i4c.mha.gov.in/FAQ.aspx",
+      "source_type": "official_web_page",
+      "jurisdiction": "India"
+    },
+    "official_documents/i4c-cybercrime-categories.txt": {
+      "source_name": "Cybercrime categories",
+      "publisher": "Indian Cyber Crime Coordination Centre (I4C), Ministry of Home Affairs, Government of India",
+      "source_url": "https://i4c.mha.gov.in/cyber-crime-categories.aspx",
+      "source_type": "official_web_page",
+      "jurisdiction": "India"
+    },
+    "official_documents/i4c-nctau-malicious-sideloaded-apps-advisory-2026.pdf": {
+      "source_name": "Malicious Side Loaded Pornographic Android Apps leading to Unauthorized Financial Transactions",
+      "publisher": "National Cybercrime Threat Analytics Unit (NCTAU), Indian Cyber Crime Coordination Centre (I4C), Ministry of Home Affairs, Government of India",
+      "source_url": "https://i4c.mha.gov.in/theme/resources/advisories/ADVISORY-TAU-ADV-NIGHTPLAY-INSTAGRAM-ADS.pdf",
+      "publication_date": "2026-08-26",
+      "source_type": "official_document",
+      "jurisdiction": "India"
+    }
+  },
+  "manual_sources": [
+    {
+      "source_name": "National Cyber Crime Reporting Portal",
+      "publisher": "Government of India",
+      "source_url": "https://cybercrime.gov.in/",
+      "source_type": "official_web_page",
+      "jurisdiction": "India",
+      "status": "manual_ingestion_required",
+      "reason": "The requested portal URL returned a generic HTML application shell rather than readable reporting content; no portal page text was indexed."
+    },
+    {
+      "source_name": "MHA-CitizenManualReportOtherCyberCrime-v10.pdf (requested filename; document content not retrieved)",
+      "publisher": "Not verified from the unavailable document",
+      "source_url": "https://cybercrime.gov.in/UploadMedia/MHA-CitizenManualReportOtherCyberCrime-v10.pdf",
+      "source_type": "requested_official_resource",
+      "jurisdiction": "India",
+      "status": "manual_ingestion_required",
+      "reason": "The URL returned a generic HTML application shell instead of a PDF signature; the document was not downloaded or indexed."
+    },
+    {
+      "source_name": "MHA-CitizenManualReportCPRGRcomplaints-v10.pdf (requested filename; document content not retrieved)",
+      "publisher": "Not verified from the unavailable document",
+      "source_url": "https://cybercrime.gov.in/UploadMedia/MHA-CitizenManualReportCPRGRcomplaints-v10.pdf",
+      "source_type": "requested_official_resource",
+      "jurisdiction": "India",
+      "status": "manual_ingestion_required",
+      "reason": "The URL returned a generic HTML application shell instead of a PDF signature; the document was not downloaded or indexed."
+    },
+    {
+      "source_name": "FAQ.aspx (requested portal FAQ; page content not retrieved)",
+      "publisher": "National Cyber Crime Reporting Portal (page content not verified)",
+      "source_url": "https://cybercrime.gov.in/webform/FAQ.aspx",
+      "source_type": "requested_official_resource",
+      "jurisdiction": "India",
+      "status": "manual_ingestion_required",
+      "reason": "The URL returned a generic HTML application shell with no FAQ content; no FAQ text was indexed."
+    }
+  ]
+}

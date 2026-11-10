@@ -1,0 +1,19 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Complaint draft | Cyber Assist</title><link rel="stylesheet" href="css/styles.css"></head><body><div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="dashboard.html"><img class="brand-logo" src="assets/cyber-assist-logo.svg" alt=""><span class="brand-copy"><b>Cyber Assist</b><small>Complaint preparation</small></span></a>
+      <div class="side-label">WORKSPACE</div>
+      <nav class="nav">
+<a class="nav-link" href="dashboard.html"><span class="nav-code">DB</span><span>Dashboard</span></a>
+<a class="nav-link" href="incident.html"><span class="nav-code">ID</span><span>Incident details</span></a>
+<a class="nav-link" href="evidence.html"><span class="nav-code">EV</span><span>Evidence</span></a>
+<a class="nav-link" href="timeline.html"><span class="nav-code">TL</span><span>Timeline</span></a>
+<a class="nav-link" href="missing-info.html"><span class="nav-code">MI</span><span>Missing information</span></a>
+<a class="nav-link active" href="complaint.html"><span class="nav-code">CD</span><span>Complaint draft</span></a>
+<a class="nav-link" href="history.html"><span class="nav-code">LH</span><span>Activity history</span></a>
+</nav>
+    </aside><main class="main">
+        <header class="topbar"><div><div class="breadcrumb">CYBER ASSIST / WORKSPACE</div><h1>Complaint draft</h1></div><div class="topbar-actions"><button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme"><span class="theme-glyph">◐</span><span class="theme-label">Dark mode</span></button><a class="btn secondary" href="dashboard.html">Dashboard</a></div></header>
+        
+        <section class="page-intro"><div class="eyebrow">STEP 7 / DRAFTING</div><h2>Complaint draft</h2><p>Generate a structured draft from recorded case details. It is not legal advice or an independently verified account; review every statement.</p></section>
+        <section class="draft-layout"><div class="panel"><div class="section-heading"><div><h3>Draft editor</h3><p>Only confirmed evidence facts may be included in an AI-assisted draft. Rebuild after changing case details.</p></div><button class="btn secondary small" id="regenerateDraft" type="button">Generate draft</button></div><label class="consent-check"><input id="complaintAiConsent" type="checkbox"> I explicitly consent to sending incident details, the timeline, evidence filenames, and confirmed fact excerpts to OpenAI for drafting. Otherwise, use the local template.</label><p id="complaintStatus" class="inline-note" role="status" aria-live="polite"></p><label class="editor-label">Complaint text<textarea id="complaintEditor" rows="19"></textarea></label><div class="form-actions"><span class="inline-note">Saved to the database when linked to an incident.</span><button class="btn secondary" id="exportComplaintTxt" type="button">Export TXT</button><button class="btn secondary" id="exportComplaintPdf" type="button">Export PDF</button><button class="btn primary" id="saveDraft" type="button">Save draft</button></div></div><aside class="panel draft-sidebar"><h3>Included details</h3><div id="draftFacts" class="detail-list"></div><a class="btn secondary full" href="timeline.html">Review timeline</a><a class="btn secondary full" href="missing-info.html">Check missing information</a><a class="btn primary full" href="review.html">Final review →</a></aside></section>
+        </main></div><div class="toast" id="toast" role="status" aria-live="polite"></div><script src="js/app.js"></script></body></html>

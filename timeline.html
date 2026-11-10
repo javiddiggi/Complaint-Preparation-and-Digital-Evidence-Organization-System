@@ -1,0 +1,20 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Incident timeline | Cyber Assist</title><link rel="stylesheet" href="css/styles.css"></head><body><div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="dashboard.html"><img class="brand-logo" src="assets/cyber-assist-logo.svg" alt=""><span class="brand-copy"><b>Cyber Assist</b><small>Complaint preparation</small></span></a>
+      <div class="side-label">WORKSPACE</div>
+      <nav class="nav">
+<a class="nav-link" href="dashboard.html"><span class="nav-code">DB</span><span>Dashboard</span></a>
+<a class="nav-link" href="incident.html"><span class="nav-code">ID</span><span>Incident details</span></a>
+<a class="nav-link" href="evidence.html"><span class="nav-code">EV</span><span>Evidence</span></a>
+<a class="nav-link active" href="timeline.html"><span class="nav-code">TL</span><span>Timeline</span></a>
+<a class="nav-link" href="missing-info.html"><span class="nav-code">MI</span><span>Missing information</span></a>
+<a class="nav-link" href="complaint.html"><span class="nav-code">CD</span><span>Complaint draft</span></a>
+<a class="nav-link" href="history.html"><span class="nav-code">LH</span><span>Activity history</span></a>
+</nav>
+    </aside><main class="main">
+        <header class="topbar"><div><div class="breadcrumb">CYBER ASSIST / WORKSPACE</div><h1>Incident timeline</h1></div><div class="topbar-actions"><button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme"><span class="theme-glyph">◐</span><span class="theme-label">Dark mode</span></button><a class="btn secondary" href="dashboard.html">Dashboard</a></div></header>
+        
+        <section class="page-intro"><div class="eyebrow">STEP 5 / EVENT SEQUENCE</div><h2>Incident timeline</h2><p>Review the event sequence, correct entries, and link available evidence.</p></section>
+        <section class="panel"><div class="section-heading"><div><h3>Reported events</h3><p>Evidence-derived dates remain review candidates; no date is inferred when ambiguous.</p></div><div class="form-actions"><button class="btn secondary small" id="generateTimeline" type="button">Generate from saved evidence</button><button class="btn primary small" id="addTimelineEvent" type="button">+ Add event</button></div></div><p id="timelineStatus" class="inline-note" role="status" aria-live="polite"></p><div id="timelineEvents" class="timeline-list"></div></section>
+        <section class="panel add-event-panel" id="eventFormPanel" hidden><h3 id="timelineFormTitle">Add timeline event</h3><form id="timelineForm" class="form-grid"><label>Date (if known)<input id="eventDate" type="date"></label><label>Time (optional)<input id="eventTime" type="time"></label><label class="full">Event description<input id="eventDescription" required placeholder="Describe what happened"></label><label class="full">Link supporting evidence (optional)<select id="eventEvidenceSource"><option value="">No evidence linked</option></select><small class="field-hint">The link records the selected file name; the file content is not analyzed.</small></label><div class="full form-actions"><button class="btn secondary" id="cancelEvent" type="button">Cancel</button><button class="btn primary" id="saveTimelineEvent" type="submit">Add event</button></div></form></section>
+        </main></div><div class="toast" id="toast" role="status" aria-live="polite"></div><script src="js/app.js"></script></body></html>

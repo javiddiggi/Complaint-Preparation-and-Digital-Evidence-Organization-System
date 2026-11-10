@@ -1,0 +1,40 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Upload evidence | Cyber Assist</title><link rel="stylesheet" href="css/styles.css"></head><body><div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="dashboard.html"><img class="brand-logo" src="assets/cyber-assist-logo.svg" alt=""><span class="brand-copy"><b>Cyber Assist</b><small>Complaint preparation</small></span></a>
+      <div class="side-label">WORKSPACE</div>
+      <nav class="nav">
+<a class="nav-link" href="dashboard.html"><span class="nav-code">DB</span><span>Dashboard</span></a>
+<a class="nav-link" href="incident.html"><span class="nav-code">ID</span><span>Incident details</span></a>
+<a class="nav-link active" href="evidence.html"><span class="nav-code">EV</span><span>Evidence</span></a>
+<a class="nav-link" href="timeline.html"><span class="nav-code">TL</span><span>Timeline</span></a>
+<a class="nav-link" href="missing-info.html"><span class="nav-code">MI</span><span>Missing information</span></a>
+<a class="nav-link" href="complaint.html"><span class="nav-code">CD</span><span>Complaint draft</span></a>
+<a class="nav-link" href="history.html"><span class="nav-code">LH</span><span>Activity history</span></a>
+</nav>
+    </aside><main class="main">
+        <header class="topbar"><div><div class="breadcrumb">CYBER ASSIST / WORKSPACE</div><h1>Upload evidence</h1></div><div class="topbar-actions"><button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme"><span class="theme-glyph">◐</span><span class="theme-label">Dark mode</span></button><a class="btn secondary" href="dashboard.html">Dashboard</a></div></header>
+        
+        <section class="page-intro"><div class="eyebrow">STEP 2 / SUPPORTING MATERIAL</div><h2>Digital evidence</h2><p>Upload files for the currently selected incident. PDF and TXT text extraction and OCR for images or scanned PDFs are available; files are not analyzed with AI.</p></section>
+        <section class="panel"><div class="section-heading"><div><h3>Upload supporting evidence</h3><p>Supported formats: PDF, PNG, JPG, JPEG, TXT.</p></div><span class="step-tag">Evidence list</span></div>
+          <p id="evidenceIncidentStatus" class="inline-note" role="status" aria-live="polite">Checking the selected incident…</p>
+          <label class="evidence-category-field">Category for the selected files<select id="evidenceCategory"><option>Communication</option><option>Financial or transaction</option><option>Website or URL</option><option>Incident document</option><option>Other</option></select></label>
+          <label class="upload-zone" for="evidenceFiles" tabindex="0"><span class="upload-symbol" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 16V4m0 0L7.5 8.5M12 4l4.5 4.5M5 14v5h14v-5"/></svg></span><b>Choose files</b><span>or drag files into this area</span><small>PDF, PNG, JPG, JPEG, and TXT · Maximum 10 MB per file</small></label>
+          <input type="file" id="evidenceFiles" accept=".pdf,.png,.jpg,.jpeg,.txt" multiple hidden>
+          <p id="evidenceStatus" class="inline-note" role="status" aria-live="polite"></p>
+          <div class="section-heading evidence-list-heading"><div><h3>Evidence inventory</h3><p id="evidenceSummary" aria-live="polite">No items added</p></div><button class="btn secondary small" id="addManualEvidence" type="button" aria-controls="manualEvidenceForm" aria-expanded="false">+ Add manual item</button></div>
+          <form id="manualEvidenceForm" class="manual-evidence-form" hidden>
+            <label>Item name<input id="manualEvidenceName" required placeholder="e.g. Call log from 15 October"></label>
+            <label>Category<select id="manualEvidenceCategory"><option>Communication</option><option>Financial or transaction</option><option>Website or URL</option><option>Incident document</option><option>Other</option></select></label>
+            <div class="manual-evidence-actions"><button class="btn secondary small" id="cancelManualEvidence" type="button">Cancel</button><button class="btn primary small" type="submit">Add to inventory</button></div>
+          </form>
+          <div id="evidenceTable" class="table-wrap"></div>
+          <section id="extractionPreview" class="extraction-preview" hidden aria-labelledby="extractionPreviewTitle">
+            <div class="section-heading"><div><h3 id="extractionPreviewTitle">Extracted text</h3><p id="extractionPreviewFilename"></p></div><button id="closeExtractionPreview" class="btn secondary small" type="button">Close</button></div>
+            <p id="extractionPreviewStatus" class="inline-note" role="status" aria-live="polite"></p>
+            <pre id="extractedTextContent" class="extracted-text-content" hidden></pre>
+            <section id="structuredFactsPreview" class="structured-facts-preview" hidden aria-labelledby="structuredFactsTitle"><h4 id="structuredFactsTitle">Extracted candidates · review required</h4><div id="structuredFactsContent"></div></section>
+          </section>
+          <div class="prototype-note"><strong>File handling</strong><span>Uploaded files and their metadata are stored by the local backend. Manual inventory entries remain in this browser. PDF and TXT text extraction and OCR for PNG, JPG, JPEG, and scanned PDFs are supported. Files are not analyzed with AI.</span></div>
+        </section>
+        <section class="next-card panel"><div><b>Build the incident timeline</b><p>Add events and link them to an item in this evidence inventory when a source is available.</p></div><a class="btn primary" href="timeline.html">Review timeline →</a></section>
+        </main></div><div class="toast" id="toast" role="status" aria-live="polite"></div><script src="js/app.js"></script></body></html>

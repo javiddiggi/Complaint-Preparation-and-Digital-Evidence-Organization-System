@@ -1,0 +1,144 @@
+FAQ (Frequently Asked Questions)
+
+When was Indian Cybercrime Coordination Centre (I4C) formed?
+Indian Cybercrime Coordination Centre (I4C) was officially inaugurated by Hon’ble Home Minister
+             Shri Amit Shah on the 10th of January 2020, to combat Cybercrime in the country and strengthen the 
+            overall security apparatus to fight against Cybercrime.
+What is the purpose of Indian Cybercrime Coordination Centre?
+Indian Cybercrime Coordination Centre (I4C) focuses on tackling all the issues related with Cybercrime 
+          for all citizens,  such as, improving coordination among Law Enforcement Agencies and other concerned
+           stakeholders, driving change in India's overall capability to tackle Cybercrime, and facilitating 
+          capacity development of Law Enforcement Agencies to better respond to Cybercrime.
+What are computer-related offences?
+As per Section 66, IT Act 2000, a computer-related offence has been committed when destruction, damage, 
+          disruption, denial, deletion, concealment, tampering, manipulation, stealing or alteration of information 
+          residing in a computer resource has happened due to the dishonest or fraudulent action of the accused.
+What is meant by the term computer resource?
+‘Computer Resource’ means any computer, computer system, computer network, data, computer database or software.
+What is meant by the term Cyber Security?
+‘Cyber Security’ means protecting information, equipment, devices, computer, computer resource, 
+          communication device and information stored therein from unauthorized access, use, disclosure,
+           disruption, modification or destruction.
+How do I report a Cybercrime complaint?
+Cybercrime complaints can be reported on the website -
+https://cybercrime.gov.in/
+of Indian Cybercrime 
+          Coordination Centre (I4C).
+Complaints related to financial cyber frauds can be reported by calling the National Helpline
+                number 1930, and the complaints must be later completed on the above website with additional information.
+What are the Seven Verticals of I4C?
+The Seven Verticals (Components) of I4C:
+National Cybercrime Threat Analytics Unit (NCTAU).
+National Cybercrime Reporting Portal (NCRP).
+National Cybercrime Ecosystem Management Unit (NCEMU).
+Joint Cybercrime Coordination Teams (JCCT).
+National Cyber Forensic Laboratory (NCFL).
+National Cybercrime Training Centre (NCTC).
+National Cybercrime Research and Innovation Centre (NCR&IC).
+Which type of Cybercrime can I report on the portal?
+There are two options for reporting Cybercrime on the portal:
+Report Cybercrime related to Women/Child
+– Under this section, you can report complaints pertaining 
+              to content related to online Child Pornography (CP), Child Sexual Abuse Material (CSAM) or sexually
+               explicit content such as Rape/Gang Rape (CP/RGR) content.
+Report Other Cybercrime
+– Under this option, you can report complaints pertaining to Cybercrimes 
+              such as social media crimes, online financial frauds, ransomware, hacking, cryptocurrency crime, 
+              online cyber trafficking, etc.
+What is the difference between the options of ‘Report Anonymously’ and ‘Report and Track’ for filing Cybercrime complaints ?
+There are two options for filing a report on www.cybercrime.gov.in: (i) Report Crime related to Women/ Child and 
+          (ii) Report Other Cybercrimes. In case of “Report Crime related to Women/ Child”, there are two ways of 
+          registering your complaint:
+Report Anonymously
+- You can report crime related to online Child Pornography/ 
+              Rape or Gang Rape (CP/RGR) content anonymously. You do not need to provide any personal information. 
+              However, information related to the complaint should be accurate and complete for the police authorities
+               to take necessary action.
+Report and Track
+– Under this option, fields marked with a red asterisk (*) are mandatory. 
+              It is important that the police authorities receive accurate and complete information related to the 
+              complaint. Therefore, one should provide required information such as your name, phone number, email 
+              address, details of the complaint and necessary information supporting the complaint.
+What kind of information, should I provide to report complaint?
+Initially when filing a complaint, register yourself using your name and valid Indian mobile number.
+           You will receive a One Time Password (OTP) on your mobile number. Once successfully register your mobile
+           number on the portal, you will be able to report the complaint.
+You can use “Report Other Cybercrimes” option available on the portal to report other 
+              cybercrimes such as mobile crimes, online and social media crimes, online financial frauds, 
+              ransomware, hacking, cryptocurrency crimes and online cyber trafficking. You are required to 
+              register yourself using your name and valid Indian mobile number. You will receive a One Time 
+              Password (OTP) on your mobile number. Once successfully register your mobile number on the portal, 
+              you will be able to report the complaint by selecting appropriate category and sub-category.
+How can I file the complaints about other Cybercrimes?
+In case of other Cybercrimes, you can opt for “Report Other Cybercrimes” section. You are required
+           to register yourself using your name and valid Indian mobile number. You will receive a One Time 
+          Password (OTP) on your mobile number. The OTP remains valid for 30 minutes only. Once you successfully
+           register your mobile number on the portal, you will be able to report the complaint by selecting 
+          appropriate category and sub-category of Cybercrime.
+Under this section, fields marked with a red asterisk (*) are mandatory. It is important that the 
+              police authorities receive accurate and complete information related to the complaint. Therefore, 
+              you should provide required information such as your name, phone number, email address, details of 
+              the complaint and necessary information supporting the complaint.
+What happens once I report a Cybercrime complaint?
+The complaints reported on the portal shall be handled by the concerned State/UT police authorities based on 
+          your selection of State/ UT while reporting the complaint. In case of any further queries the concerned Police
+           Station and/or the State/UT Nodal Officer for NCRP may be approached.
+How can I check the status of my registered complaint on NCRP?
+You will be able to check the status of your complaint if you have reported the complaint using 
+          “Report and Track” option or “Report Other Cybercrime” section available on the portal. The complainant 
+          will receive an acknowledgement number which can be used to track the progress of the complaint by logging 
+          on to the portal and clicking on “check status” option.
+What is Citizen Financial Cyber Fraud Reporting and Management System (CFCFRMS)?
+The Citizen Financial Cyber Fraud Reporting and Management System has been developed by the Indian Cybercrime 
+          Coordination Centre and is operated by respective State/UT which brings together Law Enforcement Agencies 
+          of States/UTS, Banks and Financial Intermediaries on a single platform to take immediate action on the 
+          complaints regarding financial cyber frauds received through helpline number 1930. The calls are being 
+          received by respective State/UT Police officials.
+I4C, MHA is the platform provider. Complaints are lodged and handled by respective State/UT Law Enforcement Agencies.
+Who manages the National Helpline number 1930 and the complaints reported through the help line number?
+Respective State/UT Law Enforcement Agencies manage the Helpline number
+            1930, and officials designated by the respective State/UT Law Enforcement
+            Agency receive calls from complainants and enter the required details on
+            their behalf. Complaints are registered through the helpline number and also
+            through the portal. In case of any further queries the concerned Police Station
+            and/or the State/UT Nodal Officer for NCRP may be approached.
+How can citizens register complaint on the Citizen Financial Cyber Fraud
+Reporting and Management System?
+Citizens can register their complaints through the helpline number 1930. Complainants can call on the helpline 
+          number 1930 and provide few mandatory details like Name, Mobile Number, Address, Transaction details etc. 
+          and after receiving acknowledgement number the complainants are needed to make a formal complaint on the 
+          portal
+(https://cybercrime.gov.in/)
+within 24 hrs using the acknowledgement number received on SMS.
+What is CSAM?
+Child Sexually Abusive Material (CSAM) refers to material containing sexual
+        image in any form, of a child who is abused or sexually exploited. Section 67
+        (B) of IT Act states that “it is punishable for publishing or transmitting of
+        material depicting children in sexually explicit act, etc. in electronic form”.
+Acronyms
+CIS Division - Cyber and Information Security Division.
+I4C - Indian Cybercrime Coordination Centre.
+NCTAU - National Cybercrime Threat Analytics Unit.
+NCRP - National Cybercrime Reporting Portal.
+NCEMU – National Cybercrime Ecosystem Management Unit.
+JCCT - Joint Cybercrime Coordination Teams.
+NCFL - National Cyber Forensic Laboratory.
+NCTC - National Cybercrime Training Centre.
+NCR&IC - National Cybercrime Research and Innovation Centre.
+IT Act – Information Technology Act, 2000.
+CERT-In – Indian Computer Emergency Response Team.
+CSAM - Child Sexually Abusive Material.
+CVE - Common Vulnerabilities and Exposure.
+DDoS - Distributed Denial of Service.
+APT - Advanced Persistent Threat.
+IoC - Indicators of Compromise.
+VPN – Virtual Private Network.
+TTP - Tactics, Techniques, and Procedures.
+CISO - Chief Information Security Officer.
+IoT - Internet of Things.
+ICT - Information and Communications Technology.
+URL - Uniform Resource Locator.
+RDP - Remote Desktop Protocol.
+BEC - Business Email Compromise.
+DNS - Domain Name System.
+OTP - One-Time Password.

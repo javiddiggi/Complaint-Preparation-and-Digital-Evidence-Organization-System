@@ -1,0 +1,10 @@
+Cyber Assist summary of official guidance — United States jurisdiction
+Source: FBI Internet Crime Complaint Center (IC3), Frequently Asked Questions
+Official source: https://www.ic3.gov/Home/FAQ
+This is a short Cyber Assist summary, not the official source text or legal advice. Procedures differ by location; confirm current instructions with the relevant local authority.
+
+Before submitting an IC3 complaint, review names, contact details, amounts, dates and event descriptions against the original records. Do not invent unavailable details. The IC3 FAQ says the complainant should save or print a copy of the report after submission; the FAQ notes an electronic copy is not emailed.
+
+Preserve original documents and digital records securely. The IC3 says it does not accept evidence attachments. If immediate danger exists, the IC3 FAQ directs people to call 911 or local police. For an issue believed to be time-sensitive, it advises contacting local law enforcement directly. These emergency and reporting instructions are United States-specific; follow the appropriate emergency and cybercrime reporting channels in your own location.
+
+Official FAQ: https://www.ic3.gov/Home/FAQ

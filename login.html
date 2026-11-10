@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Sign in | Cyber Assist</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="public-page login-page">
+    <header class="public-nav">
+        <a class="public-brand" href="index.html">
+            <img src="assets/cyber-assist-logo.svg" alt="Cyber Assist logo">
+            <span><b>Cyber Assist</b><small>Evidence to complaint</small></span>
+        </a>
+        <div class="public-actions">
+            <button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme">
+                <span class="theme-glyph">◐</span><span class="theme-label">Dark mode</span>
+            </button>
+        </div>
+    </header>
+    <main class="login-main">
+        <section class="login-card panel">
+            <img class="login-logo" src="assets/cyber-assist-logo.svg" alt="">
+            <div class="eyebrow">WELCOME BACK</div>
+            <h2>Sign in to Cyber Assist</h2>
+            <p>Use your account details to continue.</p>
+            <form id="loginForm">
+                <label>Email address<input type="email" id="loginEmail" placeholder="you@example.com" required autocomplete="email"></label>
+                <label>Password
+                    <span class="password-field"><input type="password" id="loginPassword" placeholder="Enter password" required autocomplete="current-password"><button class="password-toggle" type="button" data-password-toggle="loginPassword" aria-label="Show password" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2.5 12s3.4-6 9.5-6 9.5 6 9.5 6-3.4 6-9.5 6-9.5-6-9.5-6Z"/><circle cx="12" cy="12" r="2.5"/></svg></button></span>
+                </label>
+                <small class="form-error" id="loginFeedback" role="status" aria-live="polite" hidden></small>
+                <button class="btn primary full large" type="submit">Continue to workspace →</button>
+                <small class="login-helper">Demo only: credentials are not verified and no secure account is created. The email selects an isolated browser demo workspace; this is not production authentication.</small>
+            </form>
+            <div class="login-bottom">
+                <span>New to Cyber Assist?</span>
+                <a href="signup.html">Create an account →</a>
+            </div>
+        </section>
+    </main>
+    <footer class="public-footer">
+        <a class="public-brand" href="index.html">
+            <img src="assets/cyber-assist-logo.svg" alt="">
+            <span><b>Cyber Assist</b><small>Evidence to complaint</small></span>
+        </a>
+    </footer>
+    <script src="js/app.js"></script>
+</body>
+</html>

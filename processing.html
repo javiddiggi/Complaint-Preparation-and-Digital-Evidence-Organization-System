@@ -1,0 +1,26 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Evidence processing | Cyber Assist</title><link rel="stylesheet" href="css/styles.css"></head><body><div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="dashboard.html"><img class="brand-logo" src="assets/cyber-assist-logo.svg" alt=""><span class="brand-copy"><b>Cyber Assist</b><small>Complaint preparation</small></span></a>
+      <div class="side-label">WORKSPACE</div>
+      <nav class="nav">
+<a class="nav-link" href="dashboard.html"><span class="nav-code">DB</span><span>Dashboard</span></a>
+<a class="nav-link" href="incident.html"><span class="nav-code">ID</span><span>Incident details</span></a>
+<a class="nav-link" href="evidence.html"><span class="nav-code">EV</span><span>Evidence</span></a>
+<a class="nav-link" href="timeline.html"><span class="nav-code">TL</span><span>Timeline</span></a>
+<a class="nav-link" href="missing-info.html"><span class="nav-code">MI</span><span>Missing information</span></a>
+<a class="nav-link" href="complaint.html"><span class="nav-code">CD</span><span>Complaint draft</span></a>
+<a class="nav-link" href="history.html"><span class="nav-code">LH</span><span>Activity history</span></a>
+</nav>
+    </aside><main class="main">
+        <header class="topbar"><div><div class="breadcrumb">CYBER ASSIST / WORKSPACE</div><h1>Evidence processing</h1></div><div class="topbar-actions"><button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme"><span class="theme-glyph">◐</span><span class="theme-label">Dark mode</span></button><a class="btn secondary" href="dashboard.html">Dashboard</a></div></header>
+        
+        <section class="page-intro"><div class="eyebrow">STEP 3 / PREPARATION</div><h2>Evidence processing</h2><p>Check the evidence inventory and review the information available for this case.</p></section>
+        <section class="panel process-panel"><div class="section-heading"><div><h3>Processing workflow</h3><p>Current status for the evidence items in this case.</p></div><span id="processStatus" class="step-tag">No evidence</span></div>
+          <div class="process-steps" id="processSteps">
+            <div class="process-step"><span class="process-number">01</span><div><b>Evidence inventory</b><p>File names and basic details added to this case.</p></div><span class="process-state">No evidence items</span></div>
+            <div class="process-step"><span class="process-number">02</span><div><b>Text extraction</b><p>Readable text can be extracted from PDF and TXT files on the Evidence page. Scanned PDFs require OCR, which is not included.</p></div><span class="process-state">Available for PDF/TXT</span></div>
+            <div class="process-step"><span class="process-number">03</span><div><b>Information extraction</b><p>Dates, amounts, URLs, and account references are not automatically identified from file text.</p></div><span class="process-state">Not connected</span></div>
+            <div class="process-step"><span class="process-number">04</span><div><b>Source association</b><p>Timeline events can be linked manually to a listed file name.</p></div><span class="process-state">Manual only</span></div>
+          </div><div class="process-actions"><button class="btn secondary" id="runDemoProcessing" type="button">Refresh inventory status</button><a class="btn primary" href="extracted-info.html">Review information →</a></div>
+        </section>
+        </main></div><div class="toast" id="toast" role="status" aria-live="polite"></div><script src="js/app.js"></script></body></html>
