@@ -1,4 +1,4 @@
-# Cyber Assist — Cybercrime Complaint Preparation and Evidence Organization
+# Cybercrime Complaint Preparation and Evidence Organization
 
 ## 1. Project Overview
 
